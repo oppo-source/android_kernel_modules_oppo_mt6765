@@ -1,0 +1,3 @@
+
+source "drivers/input/touchscreen/oppo_touchscreen/Himax/hx83102d_noflash/Kconfig"
+
